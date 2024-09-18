@@ -1,4 +1,4 @@
-# crime 
+# 
 ![](https://files.offshore.cat/pwAhrK3v.png)
 - featureful discord groupchat spammer
 - windows & linux support
