@@ -9,7 +9,7 @@
 - changeable groupchat name
 - changeable groupchat profile picture
 
-# support
+# os support
 - windows
 - linux
 
