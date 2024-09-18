@@ -14,7 +14,7 @@
 - python 3.x
 
 # example config.json
-![example]([https://files.offshore.cat/iYXr9Jhy.gif](https://files.offshore.cat/2riw4scu.mp4])
+![example]([https://files.offshore.cat/lF8rPbX7.gif])
 
 # usage
 - git clone crime > **git clone https://github.com/unconfiguring/crime**
