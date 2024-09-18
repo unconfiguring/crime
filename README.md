@@ -14,6 +14,7 @@
 - python 3.x
 
 # example config.json
+![Alt text](https://files.offshore.cat/2riw4scu.mp4)
 ![Alt text](https://files.offshore.cat/lF8rPbX7.gif)
 
 # usage
