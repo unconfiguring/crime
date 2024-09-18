@@ -2,7 +2,7 @@
 - featureful discord groupchat spammer
 - windows & linux support
 
-[](https://files.offshore.cat/pwAhrK3v.png)
+![](https://files.offshore.cat/pwAhrK3v.png)
 
 # features 
 - message sending
@@ -44,9 +44,6 @@
     "profile_picture_path": "c:\\users\\loved\\downloads\\black.png"
 }
 ```
-
-![](https://files.offshore.cat/AULPEOFZ.png)
-
 
 # usage
 - git clone crime > **git clone https://github.com/unconfiguring/crime**
