@@ -14,6 +14,7 @@
 - python 3.x
 
 # example of config.json
+```python export default { // for displaying on the <select> dropdown name: 'Cool Discord Lib (Cool Programming Language)', // for highlight.js // see https://highlightjs.readthedocs.io/en/latest/css-classes-reference.html#language-names-and-aliases language: 'coolprogramminglanguage', // actual generator // data is just a javascript object that looks like this: // { "content": "message content...", "embed": { ... } } generateFrom(data) { ... }, }; ```
 ![](https://files.offshore.cat/AULPEOFZ.png)
 
 
