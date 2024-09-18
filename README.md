@@ -13,6 +13,9 @@
 # requiremnts 
 - python 3.x
 
+# example config.json
+![example](https://files.offshore.cat/iYXr9Jhy.gif)
+
 # usage
 - git clone crime > **git clone https://github.com/unconfiguring/crime**
 - install requirements > **pip install -r requirements.txt** in command prompt
