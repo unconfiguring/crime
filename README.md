@@ -17,6 +17,12 @@
 # requiremnts 
 - python 3.x
 
+# usage
+- git clone crime > **git clone https://github.com/unconfiguring/crime**
+- install requirements in command prompt > **pip install -r requirements.txt** in the directory you installed crime in
+- configure config.json **example below this**
+- crime.py
+
 # example of config.json
 ```js
 {
@@ -46,10 +52,4 @@
     "profile_picture_path": "c:\\users\\loved\\downloads\\black.png"
 }
 ```
-
-# usage
-- git clone crime > **git clone https://github.com/unconfiguring/crime**
-- install requirements > **pip install -r requirements.txt** in command prompt
-- configure config.json **example above this**
-- crime.py
 
