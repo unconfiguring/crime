@@ -2,8 +2,8 @@
 ![](https://files.offshore.cat/pwAhrK3v.png)
 
 # features 
-- message sending
 - token validation
+- message sending
 - customizable cooldown
 - supports up to 10 users
 - changeable groupchat name
