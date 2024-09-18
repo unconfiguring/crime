@@ -2,6 +2,8 @@
 - featureful discord groupchat spammer
 - windows & linux support
 
+[](https://files.offshore.cat/pwAhrK3v.png)
+
 # features 
 - message sending
 - token validation
