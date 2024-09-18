@@ -1,4 +1,6 @@
-# crime - featureful discord groupchat spammer
+# crime 
+- featureful discord groupchat spammer
+- windows & linux support
 
 # features 
 - message sending
@@ -9,6 +11,6 @@
 - changeable groupchat profile picture
 
 # requiremnts 
-- python 3.x +
+- python 3.x
 
 # usage - 
