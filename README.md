@@ -16,6 +16,6 @@
 # usage
 - git clone crime > **git clone https://github.com/unconfiguring/crime**
 - install requirements > **pip install -r requirements.txt** in command prompt
-- configure config.json **example below**
+- configure config.json **example above this**
 - crime.py
 
