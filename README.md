@@ -1,4 +1,4 @@
-# iv - featureful discord groupchat spammer
+# crime - featureful discord groupchat spammer
 
 # features 
 - message sending
