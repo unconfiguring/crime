@@ -1,7 +1,5 @@
 # 
 ![](https://files.offshore.cat/pwAhrK3v.png)
-- featureful discord groupchat spammer
-- windows & linux support
 
 # features 
 - message sending
@@ -10,6 +8,10 @@
 - supports up to 10 users
 - changeable groupchat name
 - changeable groupchat profile picture
+
+# support
+- windows
+- linux
 
 # requiremnts 
 - python 3.x
