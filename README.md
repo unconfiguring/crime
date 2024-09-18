@@ -13,4 +13,6 @@
 # requiremnts 
 - python 3.x
 
-# usage - 
+# usage
+- install requirements > **pip install -r requirements.txt**
+
