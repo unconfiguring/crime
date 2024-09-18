@@ -16,6 +16,12 @@
 # example config.json
 ![Alt text](https://files.offshore.cat/2riw4scu.mp4)
 ![Alt text](https://files.offshore.cat/lF8rPbX7.gif)
+![sds](https://files.offshore.cat/sQEqHtBZ.gif)
+![sds](https://files.offshore.cat/sQEqHtBZ.gif)
+![sds](https://files.offshore.cat/2mUIzH0j.gif)
+![sds](https://files.offshore.cat/hvJV6ygQ.gif)
+![Alt text](https://files.offshore.cat/AULPEOFZ.png)
+
 
 # usage
 - git clone crime > **git clone https://github.com/unconfiguring/crime**
