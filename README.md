@@ -1,7 +1,3 @@
-# 
-![](https://files.offshore.cat/kfpU6CDl.png)
-
-
 # features 
 - token validation
 - message sending
