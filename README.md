@@ -45,7 +45,7 @@
     "message": "@everyone @here this is an example message",
 
     "change_profile_picture": true,
-    "profile_picture_path": "c:\\users\\loved\\downloads\\black.png"
+    "profile_picture_path": "c:\\users\\example\\downloads\\example.png"
 }
 ```
 
